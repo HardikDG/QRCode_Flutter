@@ -7,13 +7,13 @@ It currently only supports iOS
 
 ```yaml
 dependencies:
-  qrcode: "^0.1.0"
+  show_qrcode: "^0.1.0"
 ```
 
 ### ⚡️ Import
 
 ```dart
-import 'package:qrcode/qrcode.dart';
+import 'package:show_qrcode/show_qrcode.dart';
 ```
 
 ## 🎮 How To Use
