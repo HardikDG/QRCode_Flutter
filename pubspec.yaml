@@ -1,5 +1,5 @@
 name: show_qrcode
-description: A plugin to show QRCode in Flutter
+description: A plugin to show QRCode in Flutter. This plugin takes the string from the Dart file and convert the string in the QRCode with iOS native methods
 version: 0.1.1
 author: "Hardik <hardikdg.sa@gmail.com>"
 homepage: https://github.com/HardikDG/QRCode_Flutter

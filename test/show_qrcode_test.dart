@@ -1,6 +1,5 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:show_qrcode/show_qrcode.dart';
 
 void main() {
   const MethodChannel channel = MethodChannel('show_qrcode');
