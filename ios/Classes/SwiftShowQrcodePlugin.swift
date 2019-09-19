@@ -40,7 +40,7 @@ public class SwiftQrcodePlugin: NSObject, FlutterPlugin {
         let qrTransform = CGAffineTransform(scaleX: 12, y: 12)
         if let qrImage = qrFilter.outputImage?.transformed(by: qrTransform) {
             let newImage = convert(cmage: qrImage)
-            let imageData = UIImagePNGRepresentation(newImage)
+            let imageData = newImage.pngData()
             let guid = ProcessInfo.processInfo.globallyUniqueString;
             let tmpFile = String(format: "image_picker_%@.png", guid);
             let tmpDirectory = NSTemporaryDirectory();
