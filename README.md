@@ -1,6 +1,7 @@
-# qrcode
+# QRCode
 
-A plugin to generate QRCode
+A Flutter plugin to generate QRCode. 
+It currently only supports iOS
 
 ## 🎖 Installing
 
