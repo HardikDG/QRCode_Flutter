@@ -1,8 +1,7 @@
 name: qrcode
 description: A plugin to generate and scan QRCode
-version: 0.1
-author:
-  - Hardik <hardikdg.sa@gmail.com>
+version: 0.1.0
+author: "Hardik <hardikdg.sa@gmail.com>"
 homepage: https://github.com/HardikDG/QRCode_Flutter
 
 environment:

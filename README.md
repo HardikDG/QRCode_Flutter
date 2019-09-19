@@ -6,7 +6,7 @@ A plugin to generate QRCode
 
 ```yaml
 dependencies:
-  qrcode: "^0.1"
+  qrcode: "^0.1.0"
 ```
 
 ### ⚡️ Import
