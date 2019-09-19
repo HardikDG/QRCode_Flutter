@@ -1,4 +1,4 @@
-package com.hdg.qrcode_example
+package com.hdg.show_qrcode_example
 
 import android.os.Bundle
 

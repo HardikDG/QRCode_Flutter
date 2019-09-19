@@ -1,6 +1,6 @@
-# qrcode_example
+# show_qrcode_example
 
-Demonstrates how to use the qrcode plugin.
+Demonstrates how to use the show_qrcode plugin.
 
 ## Getting Started
 

@@ -2,11 +2,11 @@
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
 Pod::Spec.new do |s|
-  s.name             = 'qrcode'
+  s.name             = 'show_qrcode'
   s.version          = '0.0.1'
-  s.summary          = 'A plugin to generate and scan QRCode'
+  s.summary          = 'A plugin to show QRCode in Flutter'
   s.description      = <<-DESC
-A plugin to generate and scan QRCode
+A plugin to show QRCode in Flutter
                        DESC
   s.homepage         = 'http://example.com'
   s.license          = { :file => '../LICENSE' }

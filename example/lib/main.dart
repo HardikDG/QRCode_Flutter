@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'dart:async';
 import 'dart:io';
 
-import 'package:qrcode/qrcode.dart';
+import 'package:show_qrcode/show_qrcode.dart';
 
 void main() => runApp(MyApp());
 

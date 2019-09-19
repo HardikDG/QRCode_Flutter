@@ -1,4 +1,4 @@
-group 'com.hdg.qrcode'
+group 'com.hdg.show_qrcode'
 version '1.0-SNAPSHOT'
 
 buildscript {

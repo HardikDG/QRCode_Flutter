@@ -45,7 +45,7 @@ public class SwiftQrcodePlugin: NSObject, FlutterPlugin {
             let tmpFile = String(format: "image_picker_%@.png", guid);
             let tmpDirectory = NSTemporaryDirectory();
             let tmpPath = (tmpDirectory as NSString).appendingPathComponent(tmpFile);
-            print(tmpPath);
+//            print(tmpPath);
             if(FileManager.default.createFile(atPath: tmpPath, contents: imageData, attributes: [:])) {
                 return tmpPath;
             }
