@@ -1,7 +1,9 @@
 # QRCode
 
 A Flutter plugin to generate QRCode. 
-It currently only supports iOS (Swift 4.2)
+It only supports iOS (Swift 4.2)
+
+For lower swift version you may try with 0.1.0 version
 
 ## 🎖 Installing
 
